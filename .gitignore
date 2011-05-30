@@ -1,0 +1,8 @@
+# Emacs backup files
+*~
+# Maven output
+target/
+# IntelliJ IDEA configuration files
+/*.iml
+/*.ipr
+/*.iws
